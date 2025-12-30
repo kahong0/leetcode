@@ -16,3 +16,10 @@
 15    }
 16}
 17
+
+  /*create a hashset 
+    create a for loop to loop through the array 
+    for each iteration add the unique value in the hashset 
+    if a number is already in the hashset, then program returns false 
+    if all numbers are added in the hashset, then return true
+  */
